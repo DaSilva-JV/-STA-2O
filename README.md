@@ -1,4 +1,4 @@
-# -STA-2O
+# [STA]2O
 
 Mestrado Sistemas de informação - USP EACH
 
